@@ -13,4 +13,17 @@ In this assignment we are asked to research code, and create a demo for both pic
 
 Both the course and review videos had excellent examples to draw from and build demo code:  
 
-https://github.com/mksoha/ITFnd100-Mod07/blob/main/Pic1.png
+![Pic1](https://github.com/mksoha/ITFnd100-Mod07/blob/main/Pic1.png) "Figure 1"
+
+And shown with an error written into the code:
+
+![Pic2](https://github.com/mksoha/ITFnd100-Mod07/blob/main/Pic2.png) "Figure 2"
+
+It certainly helps both creator and user identify where an error may be.  
+
+Shown from Command Prompt:
+
+![Pic3](https://github.com/mksoha/ITFnd100-Mod07/blob/main/Pic2.png) "Figure 3"
+
+## Summary
+
