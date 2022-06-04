@@ -27,3 +27,4 @@ Shown from Command Prompt:
 
 ## Summary
 
+Interesting assignment - creating the website was the more enjoyable part.
